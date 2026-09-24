@@ -1,28 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
 <defs>
-  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#050009"/>
-    <stop offset="55%" stop-color="#160C28"/>
+    <stop offset="50%" stop-color="#160C28"/>
     <stop offset="100%" stop-color="#050009"/>
   </linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+  <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0%" stop-color="#9D6CFF" stop-opacity="0"/>
     <stop offset="50%" stop-color="#9D6CFF"/>
     <stop offset="100%" stop-color="#55E6C1" stop-opacity="0"/>
   </linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#9D6CFF" stroke-opacity=".055" stroke-width="1"/>
+  </pattern>
+  <clipPath id="tickerClip"><rect x="55" y="277" width="1090" height="30" rx="8"/></clipPath>
 </defs>
 
-<rect width="1200" height="300" rx="24" fill="url(#g)"/>
-<circle cx="1040" cy="40" r="180" fill="#9D6CFF" opacity=".07"/>
-<circle cx="1120" cy="260" r="150" fill="#55E6C1" opacity=".05"/>
-<path d="M0 252 C250 215 370 295 610 250 S940 215 1200 245" fill="none" stroke="#9D6CFF" opacity=".22"/>
-<rect x="58" y="48" width="144" height="30" rx="15" fill="#9D6CFF" opacity=".14"/>
-<text x="130" y="69" text-anchor="middle" font-family="monospace" font-size="13" fill="#F6F2FF">SKAUANDEV</text>
-<text x="58" y="137" font-family="Arial, sans-serif" font-weight="700" font-size="52" fill="#F6F2FF">Kauan Soares</text>
-<text x="60" y="179" font-family="monospace" font-size="19" fill="#9D6CFF">FULL-STACK  /  DATA  /  CYBERSECURITY</text>
-<text x="60" y="219" font-family="Arial, sans-serif" font-size="16" fill="#A99DBB">Software, dados e segurança construídos como produto.</text>
-<line x1="60" y1="250" x2="1140" y2="250" stroke="url(#line)" stroke-width="2"/>
-<text x="1138" y="277" text-anchor="end" font-family="monospace" font-size="12" fill="#A99DBB">POWER BI • NODE.JS • JAVASCRIPT • C#</text>
+<style>
+  .pulse { animation: pulse 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+  .pulse2 { animation: pulse 2.8s ease-in-out 1.1s infinite; transform-box: fill-box; transform-origin:center; }
+  .dash { stroke-dasharray: 9 15; animation: dash 9s linear infinite; }
+  .cursor { animation: blink 1s steps(1,end) infinite; }
+  .ticker { animation: ticker 15s linear infinite; }
+  .scan { animation: scan 5.5s ease-in-out infinite; }
+  @keyframes pulse { 0%,100%{opacity:.28;transform:scale(.82)} 50%{opacity:1;transform:scale(1.22)} }
+  @keyframes dash { to { stroke-dashoffset:-240; } }
+  @keyframes blink { 0%,48%{opacity:1} 49%,100%{opacity:0} }
+  @keyframes ticker { from{transform:translateX(0)} to{transform:translateX(-720px)} }
+  @keyframes scan { 0%,100%{transform:translateX(-250px);opacity:0} 15%,85%{opacity:.35} 50%{transform:translateX(1180px);opacity:.15} }
+  @media (prefers-reduced-motion: reduce) {
+    .pulse,.pulse2,.dash,.cursor,.ticker,.scan { animation:none!important; }
+  }
+</style>
 
+<rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+<rect class="scan" x="0" y="0" width="170" height="330" fill="url(#beam)" opacity=".2"/>
+
+<circle cx="1035" cy="52" r="180" fill="#9D6CFF" opacity=".055"/>
+<circle cx="1120" cy="270" r="145" fill="#55E6C1" opacity=".035"/>
+
+<!-- animated circuit -->
+<path class="dash" d="M775 86 H875 L912 123 H1055" fill="none" stroke="#9D6CFF" stroke-opacity=".45" stroke-width="2"/>
+<path class="dash" d="M805 173 H900 L934 139 H1120" fill="none" stroke="#55E6C1" stroke-opacity=".35" stroke-width="2"/>
+<path class="dash" d="M860 215 H980 L1010 185 H1150" fill="none" stroke="#9D6CFF" stroke-opacity=".28" stroke-width="2"/>
+<circle class="pulse" cx="875" cy="86" r="5" fill="#9D6CFF" filter="url(#glow)"/>
+<circle class="pulse2" cx="934" cy="139" r="5" fill="#55E6C1" filter="url(#glow)"/>
+<circle class="pulse" cx="1010" cy="185" r="4" fill="#9D6CFF" filter="url(#glow)"/>
+
+<!-- identity -->
+<rect x="58" y="43" width="146" height="30" rx="15" fill="#9D6CFF" opacity=".14"/>
+<circle class="pulse" cx="77" cy="58" r="4" fill="#55E6C1"/>
+<text x="139" y="64" text-anchor="middle" font-family="monospace" font-size="12" fill="#F6F2FF">SKAUANDEV</text>
+
+<text x="58" y="132" font-family="Arial, sans-serif" font-weight="700" font-size="52" fill="#F6F2FF">Kauan Soares</text>
+<text x="60" y="174" font-family="monospace" font-size="19" fill="#9D6CFF">FULL-STACK  /  DATA  /  CYBERSECURITY</text>
+<text x="60" y="214" font-family="Arial, sans-serif" font-size="16" fill="#A99DBB">Software, dados e segurança construídos como produto.</text>
+<text x="60" y="247" font-family="monospace" font-size="13" fill="#55E6C1">&gt; building solutions<span class="cursor">_</span></text>
+
+<line x1="55" y1="266" x2="1145" y2="266" stroke="url(#beam)" stroke-width="1.5"/>
+
+<!-- animated ticker -->
+<g clip-path="url(#tickerClip)">
+  <g class="ticker">
+    <text x="60" y="298" font-family="monospace" font-size="12" letter-spacing="2" fill="#A99DBB">FULL-STACK  →  DATA ANALYTICS  →  CYBERSECURITY  →  BUILD  →  ANALYZE  →  SECURE  →  POWER BI  →  NODE.JS  →  JAVASCRIPT  →  C#  →  FULL-STACK  →  DATA ANALYTICS  →  CYBERSECURITY  →</text>
+  </g>
+</g>
 </svg>
