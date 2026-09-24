@@ -2,139 +2,146 @@
   <img src="./assets/hero.svg" width="100%" alt="Kauan Soares — Full-Stack, Data & CyberSecurity"/>
 </div>
 
+<br/>
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan_Soares-160C28?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-soares-software-developer-20a97a367)
-[![Instagram](https://img.shields.io/badge/Instagram-@dev.soareskauan-160C28?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.soareskauan)
+### Kauan Victor Costa Bruno Soares
+**Full-Stack Developer • Analista de Dados • CyberSecurity**
+
+[LinkedIn](https://www.linkedin.com/in/kauan-soares-software-developer-20a97a367) •
+[Instagram](https://www.instagram.com/dev.soareskauan)
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=9D6CFF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%E2%80%A2+Analista+de+Dados+%E2%80%A2+CyberSecurity;Power+BI+%E2%80%A2+Node.js+%E2%80%A2+JavaScript+%E2%80%A2+C%23;Software+%2B+Dados+%2B+Seguran%C3%A7a" alt="Typing animation"/>
-</div>
-
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `01 // SOBRE`
 
-```js
-const kauan = {
-  nome: "Kauan Victor Costa Bruno Soares",
-  atuação: ["Full-Stack Developer", "Analista de Dados", "CyberSecurity"],
-  tecnologias: ["Power BI", "Node.js", "JavaScript", "C#"]
-};
-```
+Atuo na interseção entre **desenvolvimento de software, dados e segurança**, criando aplicações e soluções digitais com foco em transformar necessidades reais em produtos funcionais.
 
-Trabalho na interseção entre **desenvolvimento de software, dados e segurança**, transformando necessidades em aplicações, experiências digitais e soluções orientadas por informação.
+Minha stack atual passa por **Node.js, JavaScript, C# e Power BI**, além de projetos relacionados a **CyberSecurity**.
 
-Este perfil funciona como uma vitrine dos projetos e tecnologias que fazem parte do meu trabalho.
+Este perfil reúne alguns dos projetos e trabalhos que fazem parte da minha trajetória profissional.
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `02 // STACK`
+## `02 // ESPECIALIDADES`
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### `FULL-STACK`
+Aplicações e experiências web.
+
+**Node.js • JavaScript • C#**
+
+</td>
+<td width="33%" align="center">
+
+### `DATA`
+Análise e visualização de dados.
+
+**Power BI**
+
+</td>
+<td width="33%" align="center">
+
+### `SECURITY`
+Tecnologia com olhar para segurança.
+
+**CyberSecurity**
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `03 // STACK`
 
 <div align="center">
 
-### Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,cs&theme=dark" alt="Node.js, JavaScript e C#" />
-
-<br/><br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-050009?style=for-the-badge&logo=nodedotjs&logoColor=68A063)
-![JavaScript](https://img.shields.io/badge/JavaScript-050009?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-050009?style=for-the-badge&logo=csharp&logoColor=9D6CFF)
-
-### Data
-
-![Power BI](https://img.shields.io/badge/Power_BI-050009?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-
-### Security
-
-![CyberSecurity](https://img.shields.io/badge/CyberSecurity-050009?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+`POWER BI` &nbsp;&nbsp; `NODE.JS` &nbsp;&nbsp; `JAVASCRIPT` &nbsp;&nbsp; `C#` &nbsp;&nbsp; `CYBERSECURITY`
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `03 // PROJETOS SELECIONADOS`
+## `04 // PROJETOS SELECIONADOS`
 
 <a href="https://localize-ia.vercel.app/site/index.html">
   <img src="./assets/localize-ia.svg" width="100%" alt="Localize IA"/>
 </a>
 
-<br/>
-
 <a href="https://www.microserviceap.com.br/">
   <img src="./assets/microservice-ap.svg" width="100%" alt="Microservice AP"/>
 </a>
-
-<br/>
 
 <a href="https://www.labdrlacyr.com.br/">
   <img src="./assets/lab-drlacyr.svg" width="100%" alt="Lab Dr. Lacyr"/>
 </a>
 
-<br/>
-
 <a href="http://www.gpseclipse.com/">
   <img src="./assets/gps-eclipse.svg" width="100%" alt="GPS Eclipse"/>
 </a>
-
-<br/>
 
 <a href="https://alquimia-sigma.vercel.app/">
   <img src="./assets/alquimia.svg" width="100%" alt="Alquimia"/>
 </a>
 
-### `+ DEMONSTRAÇÕES`
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `05 // DEMONSTRAÇÕES`
+
+Além dos projetos publicados acima, também compartilho demonstrações de trabalhos no Instagram:
+
+**[Projeto 01 ↗](https://www.instagram.com/reel/DVwNMe4CMKn/)** &nbsp; • &nbsp;
+**[Projeto 02 ↗](https://www.instagram.com/reel/DTnbYNyjTZr/)** &nbsp; • &nbsp;
+**[Projeto 03 ↗](https://www.instagram.com/reel/DZnJOKwBA6K/)**
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `06 // GITHUB`
 
 <div align="center">
 
-[![Case 01](https://img.shields.io/badge/CASE_01-Instagram-160C28?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DVwNMe4CMKn/)
-[![Case 02](https://img.shields.io/badge/CASE_02-Instagram-160C28?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DTnbYNyjTZr/)
-[![Case 03](https://img.shields.io/badge/CASE_03-Instagram-160C28?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reel/DZnJOKwBA6K/)
+<a href="https://github.com/SKauanDev">
+  <img src="https://github-readme-stats.vercel.app/api?username=SKauanDev&show_icons=true&hide_border=true&bg_color=050009&title_color=9D6CFF&icon_color=9D6CFF&text_color=F6F2FF&ring_color=9D6CFF" height="170" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/SKauanDev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKauanDev&layout=compact&hide_border=true&bg_color=050009&title_color=9D6CFF&text_color=F6F2FF" height="170" alt="Top Languages"/>
+</a>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+> Os dois painéis acima usam o GitHub Readme Stats. Se o serviço externo estiver temporariamente indisponível, o restante do perfil continua funcionando normalmente.
 
-## `04 // GITHUB INTELLIGENCE`
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SKauanDev&show_icons=true&hide_border=true&bg_color=050009&title_color=9D6CFF&icon_color=9D6CFF&text_color=F6F2FF&ring_color=9D6CFF" alt="GitHub stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKauanDev&layout=compact&hide_border=true&bg_color=050009&title_color=9D6CFF&text_color=F6F2FF" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SKauanDev&hide_border=true&background=050009&stroke=160C28&ring=9D6CFF&fire=9D6CFF&currStreakNum=F6F2FF&sideNums=F6F2FF&currStreakLabel=9D6CFF&sideLabels=A99DBB&dates=A99DBB" alt="GitHub streak"/>
-
-<br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=SKauanDev&bg_color=050009&color=A99DBB&line=9D6CFF&point=55E6C1&area=true&area_color=160C28&hide_border=true" alt="Activity graph"/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-## `05 // CONTRIBUTIONS`
+## `07 // CONTRIBUIÇÕES`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKauanDev/SKauanDev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKauanDev/SKauanDev/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SKauanDev/SKauanDev/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SKauanDev/SKauanDev/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+> A animação acima aparece depois que o workflow **Generate Snake** cria a branch `output`.
 
-## `06 // CONTATO`
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `08 // CONTATO`
 
 <div align="center">
+
+### Vamos nos conectar.
 
 **Kauan Victor Costa Bruno Soares**
 
@@ -142,15 +149,11 @@ Full-Stack Developer • Analista de Dados • CyberSecurity
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050009?style=for-the-badge&logo=linkedin&logoColor=9D6CFF)](https://www.linkedin.com/in/kauan-soares-software-developer-20a97a367)
-[![Instagram](https://img.shields.io/badge/@dev.soareskauan-050009?style=for-the-badge&logo=instagram&logoColor=9D6CFF)](https://www.instagram.com/dev.soareskauan)
+**[LinkedIn](https://www.linkedin.com/in/kauan-soares-software-developer-20a97a367)** &nbsp; • &nbsp;
+**[Instagram @dev.soareskauan](https://www.instagram.com/dev.soareskauan)**
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SKauanDev&label=PROFILE+VIEWS&color=160C28&style=for-the-badge" alt="Profile views"/>
+<img src="./assets/footer.svg" width="100%" alt="Code, Data, Security and Technology"/>
 
 </div>
-
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt="Kauan Soares footer"/>
