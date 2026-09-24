@@ -63,6 +63,10 @@ Tecnologia com olhar para segurança.
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,cs&theme=dark" alt="Node.js, JavaScript e C#" />
+
+<br/><br/>
+
 `POWER BI` &nbsp;&nbsp; `NODE.JS` &nbsp;&nbsp; `JAVASCRIPT` &nbsp;&nbsp; `C#` &nbsp;&nbsp; `CYBERSECURITY`
 
 </div>
@@ -107,33 +111,46 @@ Além dos projetos publicados acima, também compartilho demonstrações de trab
 
 <div align="center">
 
-<a href="https://github.com/SKauanDev">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKauanDev&show_icons=true&hide_border=true&bg_color=050009&title_color=9D6CFF&icon_color=9D6CFF&text_color=F6F2FF&ring_color=9D6CFF" height="170" alt="GitHub Stats"/>
-</a>
+<table>
+<tr>
+<td width="33%" align="center">
 
-<a href="https://github.com/SKauanDev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKauanDev&layout=compact&hide_border=true&bg_color=050009&title_color=9D6CFF&text_color=F6F2FF" height="170" alt="Top Languages"/>
-</a>
+### `PROFILE`
+**SKauanDev**
+
+Projetos, experimentos e evolução técnica.
+
+</td>
+<td width="33%" align="center">
+
+### `FOCUS`
+**Software + Dados + Segurança**
+
+Construção de soluções com visão de produto.
+
+</td>
+<td width="33%" align="center">
+
+### `STACK`
+**Node.js • JavaScript • C# • Power BI**
+
+Tecnologias presentes no meu trabalho atual.
+
+</td>
+</tr>
+</table>
 
 </div>
 
-> Os dois painéis acima usam o GitHub Readme Stats. Se o serviço externo estiver temporariamente indisponível, o restante do perfil continua funcionando normalmente.
+> Preferi remover os cards externos de Stats e Top Languages porque estavam quebrando na renderização do GitHub. Esta seção agora usa apenas conteúdo nativo e estável.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `07 // CONTRIBUIÇÕES`
 
-<div align="center">
+O gráfico de contribuições do GitHub já aparece nativamente no perfil, então removi a Snake até que exista uma branch `output` válida e estável no repositório.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKauanDev/SKauanDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKauanDev/SKauanDev/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SKauanDev/SKauanDev/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> A animação acima aparece depois que o workflow **Generate Snake** cria a branch `output`.
+Se eu reativar essa animação depois, ela entra somente quando o workflow estiver comprovadamente gerando os arquivos corretamente — sem deixar imagem quebrada no README.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
