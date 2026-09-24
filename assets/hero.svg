@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050009"/>
+    <stop offset="55%" stop-color="#160C28"/>
+    <stop offset="100%" stop-color="#050009"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#9D6CFF" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#9D6CFF"/>
+    <stop offset="100%" stop-color="#55E6C1" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<rect width="1200" height="300" rx="24" fill="url(#g)"/>
+<circle cx="1040" cy="40" r="180" fill="#9D6CFF" opacity=".07"/>
+<circle cx="1120" cy="260" r="150" fill="#55E6C1" opacity=".05"/>
+<path d="M0 252 C250 215 370 295 610 250 S940 215 1200 245" fill="none" stroke="#9D6CFF" opacity=".22"/>
+<rect x="58" y="48" width="144" height="30" rx="15" fill="#9D6CFF" opacity=".14"/>
+<text x="130" y="69" text-anchor="middle" font-family="monospace" font-size="13" fill="#F6F2FF">SKAUANDEV</text>
+<text x="58" y="137" font-family="Arial, sans-serif" font-weight="700" font-size="52" fill="#F6F2FF">Kauan Soares</text>
+<text x="60" y="179" font-family="monospace" font-size="19" fill="#9D6CFF">FULL-STACK  /  DATA  /  CYBERSECURITY</text>
+<text x="60" y="219" font-family="Arial, sans-serif" font-size="16" fill="#A99DBB">Software, dados e segurança construídos como produto.</text>
+<line x1="60" y1="250" x2="1140" y2="250" stroke="url(#line)" stroke-width="2"/>
+<text x="1138" y="277" text-anchor="end" font-family="monospace" font-size="12" fill="#A99DBB">POWER BI • NODE.JS • JAVASCRIPT • C#</text>
+
+</svg>
