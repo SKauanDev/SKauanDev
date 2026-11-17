@@ -103,7 +103,7 @@ Além dos projetos publicados acima, também compartilho demonstrações de trab
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `06 // GITHUB STATS`
+## `06 // GITHUB STATS & SUMMARY`
 
 <div align="center">
 
