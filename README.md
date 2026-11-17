@@ -59,13 +59,20 @@ Tecnologia com olhar para segurança.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `03 // STACK`
+## `03 // STACK & TOOLS`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,cs&theme=dark" alt="Node.js, JavaScript e C#" />
+<p align="center">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> &nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-<br/><br/>
+<br/>
 
 `POWER BI` &nbsp;&nbsp; `NODE.JS` &nbsp;&nbsp; `JAVASCRIPT` &nbsp;&nbsp; `C#` &nbsp;&nbsp; `CYBERSECURITY`
 
@@ -107,54 +114,27 @@ Além dos projetos publicados acima, também compartilho demonstrações de trab
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `06 // GITHUB`
+## `06 // GITHUB STATS`
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SKauanDev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-### `PROFILE`
-**SKauanDev**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SKauanDev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
 
-Projetos, experimentos e evolução técnica.
-
-</td>
-<td width="33%" align="center">
-
-### `FOCUS`
-**Software + Dados + Segurança**
-
-Construção de soluções com visão de produto.
-
-</td>
-<td width="33%" align="center">
-
-### `STACK`
-**Node.js • JavaScript • C# • Power BI**
-
-Tecnologias presentes no meu trabalho atual.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SKauanDev&theme=radical" alt="GitHub Streak" />
+</p>
 
 </div>
 
-> Preferi remover os cards externos de Stats e Top Languages porque estavam quebrando na renderização do GitHub. Esta seção agora usa apenas conteúdo nativo e estável.
-
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `07 // CONTRIBUIÇÕES`
-
-O gráfico de contribuições do GitHub já aparece nativamente no perfil, então removi a Snake até que exista uma branch `output` válida e estável no repositório.
-
-Se eu reativar essa animação depois, ela entra somente quando o workflow estiver comprovadamente gerando os arquivos corretamente — sem deixar imagem quebrada no README.
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## `08 // CONTATO`
+## `07 // CONTATO`
 
 <div align="center">
 
