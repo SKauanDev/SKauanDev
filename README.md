@@ -59,22 +59,11 @@ Tecnologia com olhar para segurança.
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `03 // STACK & TOOLS`
+## `03 // STACK`
 
 <div align="center">
 
-<p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
-<br/>
-
-`POWER BI` &nbsp;&nbsp; `NODE.JS` &nbsp;&nbsp; `JAVASCRIPT` &nbsp;&nbsp; `C#` &nbsp;&nbsp; `CYBERSECURITY`
+`⚡ NODE.JS` &nbsp;&nbsp; `💻 JAVASCRIPT` &nbsp;&nbsp; `🔷 C#` &nbsp;&nbsp; `📊 POWER BI` &nbsp;&nbsp; `🐧 LINUX` &nbsp;&nbsp; `🛡️ CYBERSECURITY`
 
 </div>
 
